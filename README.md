@@ -1,7 +1,13 @@
 <h1 align="center"> Diogo Marciano</h1>
 Olá! Eu sou o Diogo Marciano, estudante de ciência da computação com foco em ser desenvolvedor full stack, apaixonado por tecnologia, programação e inovação. Sempre buscando aprender mais e aprimorar minhas habilidades como desenvolvedor.
 
-![trabalhando no computador](IMG_1927.gif)
+---
+
+<div align="center">
+  <img src="IMG_1927.gif" alt="trabalhando no computador">
+</div>
+
+---
 
 # 📚 Estou Aprendendo
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
