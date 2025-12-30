@@ -9,7 +9,7 @@ Olá! Eu sou o Diogo Marciano, estudante de ciência da computação com foco em
 
 ---
 
-# 📚 Estou Aprendendo
+# 📚 Habilidades
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
 ![Node](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Express](https://skillicons.dev/icons?i=express&theme=dark)
