@@ -10,14 +10,15 @@ Olá! Eu sou o Diogo Marciano, estudante de ciência da computação com foco em
 ---
 
 # 📚 Estou Aprendendo
-![Java](https://skillicons.dev/icons?i=java&theme=light)
-![Spring](https://skillicons.dev/icons?i=spring&theme=dark)
+![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
+![Node](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Express](https://skillicons.dev/icons?i=express&theme=dark)
 ![mySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 
 # 🛠️ Ferramentas
-![GIT](https://skillicons.dev/icons?i=git&theme=light)
-![GITHUB](https://skillicons.dev/icons?i=github&theme=dark)
-![IntelliJ IDEA](https://skillicons.dev/icons?i=idea&theme=light)
+![Git](https://skillicons.dev/icons?i=git&theme=light)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=aws&theme=dark)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode&theme=dark)
 
 # 🧠 Soft Skills
@@ -25,10 +26,16 @@ Olá! Eu sou o Diogo Marciano, estudante de ciência da computação com foco em
 - Comunicação
 - Proatividade
 - Organização
-
-# 📊 GitHub Stats
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogoosz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogoosz&layout=compact&theme=tokyonight)
+- 
+# 💻 Hard Skills
+- JavaScript (ES6+)
+- Node.js
+- Express.js
+- Fastify
+- Criação de APIs REST
+- Integração com bancos de dados (MySQL / PostgreSQL)
+- Autenticação e autorização (JWT)
+- Validação de dados e schemas
 
 # 📫 Contato
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/diogoosz)
